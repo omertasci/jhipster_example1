@@ -8,4 +8,5 @@ public enum Language {
     ENGLISH,
     SPANISH,
     TURKISH,
+    ARABIC,
 }
